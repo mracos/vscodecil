@@ -1,0 +1,4 @@
+windows:
+  - panes:
+    - echo "First pane"
+    - echo "Second pane"
