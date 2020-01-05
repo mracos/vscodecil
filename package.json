@@ -2,6 +2,7 @@
 	"name": "vscodecil",
 	"displayName": "vscodecil",
 	"description": "If itermocil had a vscode sibling",
+	"publisher": "mractos",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.41.0"
